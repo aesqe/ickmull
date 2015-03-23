@@ -1,5 +1,6 @@
 # ickmull
-Automatically exported from code.google.com/p/ickmull
+
+**Automatically exported from http://code.google.com/p/ickmull**
 
 Ickmull is a tool to turn web content into a format for Adobe [InDesign](/p/ickmull/wiki/InDesign). More concretely, it is an XSLT transform for taking basic prose text in XHTML format (from a blog or wiki, for instance) and converting it to the open, XML-based ICML format (a subset of the full IDML spec) so the content can be migrated automatically into Adobe [InDesign](/p/ickmull/wiki/InDesign) layouts. This transform and the accompanying testing framework are specifically designed to encourage user's to extend the of a core set of functionality. 
 
